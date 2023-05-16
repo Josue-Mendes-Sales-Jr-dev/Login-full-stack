@@ -1,0 +1,18 @@
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    background-color: aliceblue;
+    width: 29rem;
+    border-radius: 10px;
+    padding: 2.2rem 0;
+}
+
+.title{
+    
+    text-align: center;
+    color: black;
+    font-size: 2.2rem;
+}
